@@ -1,6 +1,7 @@
 # Can an LLM Replace a FinTech Manager? Comprehensive Guide to Develop a GPU-Free AI Tool for Corporate Analysis
 
-[Originally published on 'PENDING']
+[BLING models, LLM, RAG | Originally published on this 'PENDING' post via the Towards Data Science publication]
+
 
 ## Introduction
 It's been no more than a year now, where GPT stardust ✨ covered almost any sector globally. More and more experts, from any field, crave to utilise Large Language Models (LLM) in order to optimise their workflow. Evidently, the corporate world could not be absent from this new trend's safari. The future promises unprecedented possibilities, yet wrapped in the suited… cost.
