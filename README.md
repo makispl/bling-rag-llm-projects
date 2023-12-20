@@ -1,6 +1,6 @@
 # Can an LLM Replace a FinTech Manager? Comprehensive Guide to Develop a GPU-Free AI Tool for Corporate Analysis
 
-[BLING models, LLM, RAG | Originally published on this 'PENDING' post via the Towards Data Science publication]
+[BLING models, LLM, RAG | Originally published on this Medium[https://medium.com/towards-data-science/can-an-llm-replace-a-fintech-manager-comprehensive-guide-to-develop-a-gpu-free-ai-tool-for-corpo-ce04e12138e8] post via the Towards Data Science publication]
 
 ![alt text](https://github.com/makispl/bling-rag-llm-projects/blob/main/omar-prestwich-0HAPFlyy9o4-unsplash-2.jpg?raw=true)
 
